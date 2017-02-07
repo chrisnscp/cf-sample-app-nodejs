@@ -1,6 +1,8 @@
 ---
 applications:
-- name: cf-sample-app-nodejs
+- name: demoapp
+  host: demoapp
+  domain: hcf.tt.stacktest.io
   memory: 256M
   instances: 1
   host: cf-sample-app-nodejs
