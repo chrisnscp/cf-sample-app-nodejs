@@ -1,7 +1,7 @@
 ---
 applications:
-- name: demoapp
-  host: demoapp
+- name: demokr
+  host: demokr
   domain: hcf.tt.stacktest.io
   memory: 256M
   instances: 1
